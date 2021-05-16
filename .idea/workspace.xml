@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80c711d2-7eb9-4ce6-881f-a9afaffb8481" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adp3Assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assignment2Adp3/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assignment2Adp3/HouseCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assignment2Adp3/HouseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assignment2Adp3/HouseMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Assignment2Adp3/HouseSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Assignment2Adp3/HouseCollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Assignment2Adp3/HouseListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Assignment2Adp3/HouseMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Assignment2Adp3/HouseSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Assignment2Adp3/HouseCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Assignment2Adp3/HouseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Assignment2Adp3/HouseMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Assignment2Adp3/HouseSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Assignment2Adp3/HouseCollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Assignment2Adp3/HouseListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Assignment2Adp3/HouseMapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Assignment2Adp3/HouseSetTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s8IOaq5zn1ebEORmerF2nWTftO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cars" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="za.ac.cput.Assignment2Adp3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HouseSetTest.findSet">
+    <configuration name="HouseMapTest.findMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Adp3Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Assignment2Adp3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Assignment2Adp3" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Assignment2Adp3.HouseMapTest" />
+      <option name="METHOD_NAME" value="findMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseMapTest.removeMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Adp3Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Assignment2Adp3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Assignment2Adp3" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Assignment2Adp3.HouseMapTest" />
+      <option name="METHOD_NAME" value="removeMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseSetTest.addSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Adp3Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Assignment2Adp3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Assignment2Adp3" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Assignment2Adp3.HouseSetTest" />
+      <option name="METHOD_NAME" value="addSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseSetTest.findSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Adp3Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Assignment2Adp3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Assignment2Adp3" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Assignment2Adp3.HouseSetTest" />
+      <option name="METHOD_NAME" value="findSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseSetTest.removeSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Adp3Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.Assignment2Adp3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.Assignment2Adp3" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Assignment2Adp3.HouseSetTest" />
+      <option name="METHOD_NAME" value="removeSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HouseSetTest.findSet" />
+        <item itemvalue="JUnit.HouseSetTest.removeSet" />
+        <item itemvalue="JUnit.HouseSetTest.addSet" />
+        <item itemvalue="JUnit.HouseMapTest.findMap" />
+        <item itemvalue="JUnit.HouseMapTest.removeMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c711d2-7eb9-4ce6-881f-a9afaffb8481" name="Default Changelist" comment="" />
+      <created>1620247776368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620247776368</updated>
+      <workItem from="1620247781951" duration="4439000" />
+      <workItem from="1620303881662" duration="1617000" />
+      <workItem from="1620306549061" duration="789000" />
+      <workItem from="1620307647476" duration="106000" />
+      <workItem from="1620661083559" duration="1306000" />
+      <workItem from="1620732057582" duration="582000" />
+      <workItem from="1620844871320" duration="2382000" />
+      <workItem from="1620912811248" duration="2718000" />
+      <workItem from="1620994758891" duration="2355000" />
+      <workItem from="1621000855565" duration="1962000" />
+      <workItem from="1621073289385" duration="1143000" />
+      <workItem from="1621081653152" duration="236000" />
+      <workItem from="1621111327192" duration="2023000" />
+      <workItem from="1621113483755" duration="5304000" />
+      <workItem from="1621155785110" duration="2296000" />
+      <workItem from="1621164508566" duration="339000" />
+      <workItem from="1621165241158" duration="390000" />
+      <workItem from="1621166255415" duration="689000" />
+      <workItem from="1621169382912" duration="390000" />
+      <workItem from="1621170803875" duration="3845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
